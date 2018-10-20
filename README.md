@@ -1,2 +1,2 @@
 # hello-world
-This is my hello world!! repository at github
+This is the very first commit of my hello world!! repository at github
